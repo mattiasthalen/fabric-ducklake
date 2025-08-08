@@ -1,0 +1,9 @@
+[project]
+name = "fabric-ducklake"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.0, <3.12"
+dependencies = [
+    "dlt[az,filesystem]>=1.15.0",
+]
